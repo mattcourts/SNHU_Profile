@@ -16,3 +16,6 @@ Journal submissions for CS degree at SNHU
 
 ## CS-305
 [CS-305](/CS-305/)
+
+## CS-320
+[CS-320](/CS-320/)
