@@ -1,13 +1,8 @@
-How do I approach designing software?
-- What new design skills has your work on the project helped you to craft?
-- What design process did you follow for your project work?
-- How could tactics from your design approach be applied in future work?
+# CS-330
+## Course Portfolio
 
-How do I approach developing programs?
- - What new development strategies did you use while working on your 3D scene?
- - How did iteration factor into your development?
- - How has your approach to developing code evolved throughout the milestones, which led you to the project’s completion?
+Professionaly I program in a 3D coordinate plane moving machine cutting heads around mostly in a 2D profile one point at a time creating paths along each point.  Working with this graphics development expanded that knowledge into managing groups of points to create shapes, textures, lights and views.  Both knowledge points worked with each other, I found it easy to visualize and create connecting shapes to create an object.  This did require planning by reviewing the object and determining what shapes would be needed to create the object and their dimensions.  Each mesh mesh would be an individual task to complete, making adjustments as each new mesh was added.  To make this more fluid a method was created to accept a vector of meshes that form one individual object.  The benefit to the this allowed me to create a list or recipe of meshes and sizes, their color, texture, geometric shape as well as postioning and rotation.  This allows me to define one setting that is global to the part and reference it, keeping a clean readable code.  For positioning I would pass along a center point on the global plane and the part would generate based on that location making the mesh coordinates local to the global point.  This is something I do with handling machines that utilize sub programs.
 
-How can computer science help me in reaching my goals?
- - How do computational graphics and visualizations give you new knowledge and skills that can be applied in your future educational pathway?
- - How do computational graphics and visualizations give you new knowledge and skills that can be applied in your future professional pathway?
+With coming into a a framework I and not familiar with like OpenGl it is best to spend time reviwing the start or sample code to understand how it operates and manage data flow.  This led to a layered appraoch in design starting with simple steps adding more layer complexity later on.  This iterative approach allowed to finr tune the work flow for more object later on following the same interative step but at a faster.  This occured after complteting the first object completing a round of iterations new tools were brought in to speed up the development of the remaining object.  Each iterative step brought improvement to code structure as a better operating procedure was developed.
+
+I was able expand my knowledge working with 3d graphics in a three axis similar to what I work with professionally but on a more advanced level.  Transforming the coordinates are not longer done one point at a time but in a more as a group.  Given my classes remaining this may come into play with full stack development or mobile design but this might be all that is left for graphics.   That being said I would love to work more with coordinate planes and applications with linear agebra to transform, rotate and perfoem other calculations.  This would be to expand my professional journey and progress me more to where I would like to be as a programmer professionally.
