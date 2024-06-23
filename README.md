@@ -22,3 +22,6 @@ Journal submissions for CS degree at SNHU
 
 ## CS-330
 [CS-330](/CS-330/)
+
+## CS-340
+[CS-340](/CS-340/)
