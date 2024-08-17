@@ -27,4 +27,4 @@ Journal submissions for CS degree at SNHU
 [CS-340](/CS-340/)
 
 ## CS-360
-[CS-340](/CS-360/)
+[CS-360](/CS-360/)
