@@ -1,0 +1,9 @@
+
+# Project Journal
+
+My application was developed for managing the inventory for small business to personal use.  With this target demographic the goals were centered around the ability to record an item and the amount on hand.  With this in mind, UI was built to login into the app, manage the items, the amounts and send SMS notifications.  These screens focused on responses to the users inputs, changing the view to focus on the selected action.  The login screen offers the ability to register and will ask for a phone once on the main page.  The main page features the inventory list along with the ability to create new items.  The items created can be selected to update and save.  
+
+Building an inventory tracking application required an understanding of basic tasks that needed to be performed to track the quantity amounts of an item.  A workflow was designed from app launch to close based off the understand of the tasks that the app and user need to complete.  This required building the UI first then adding the data and control layers afterwards.  Classes were kept isolated and were not over abundant with unnecessary code.  Coding was done in a cyclical format allowing for one feature be developed at a time and tested before moving on to the next feature.  Debugging java proved to be the most difficult, some errors are not directly intuitive and the call stack often points to libraries and not calls made from your own code.  This leads to researching and trying to understand the why, along with troubleshooting by reverting or comment out changes.  troubleshooting step by step to find and understand the issue with the code compiling.  
+
+## Project files:
+[Inventory App](/Cplusplus-Program/CS-360/Project3_InventoryApp_Courts.zip)
