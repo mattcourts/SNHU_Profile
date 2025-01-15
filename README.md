@@ -32,3 +32,5 @@ Journal submissions for CS degree at SNHU
 ## CS-370
 [CS-370](/CS-370/)
 
+## CS-470
+[CS-470](/CS-470/)
