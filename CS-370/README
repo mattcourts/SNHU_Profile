@@ -1,0 +1,18 @@
+# CS 370 Project Journal
+
+### Briefly explain the work that you did on this project: What code were you given? What code did you create yourself?
+### Connect your learning from throughout this course to the larger field of computer science:
+### What do computer scientists do and why does it matter?
+
+This project was focused on the implementation and learning of the basic uses of AI to solve problems primarily focused on machine learning.  This was performed in steps focused on training and the different affects parameters impact the results training an AI.  Python and Jupyter Notebooks were the primary technology stacks used to access the data sets and libraries to configure and build the different appoaches to machine learning.  While AI is still a very young technology it being employed in various areas of computer science not just for user facing products.  AI is also being utilized code creation and development showing its ability to be flexible and applicable in many use cases.
+
+***
+### How do I approach a problem as a computer scientist?
+
+Appraoching a problem as a computer scientist means understanding the problem and the needed solution.  This also incorporating understanding of underlying technology used and how to use that technology.  Problems or bugs can occurs from of sorts of areas in a program from code developed for the application to the underlying technelogy. This lead to need of understand how the technology stacks operate and how to create resolutions to the issues.  As a computer scientist you will often work in iterations to build and maintain software.  This is done with iterations building or modifying software in smaller pieces, teseting each iteration and validating the iteration meets the goals of the task at hand.
+
+
+***
+### What are my ethical responsibilities to the end user and the organization?
+
+Software can built to solve a problem and provide a method to complete it, however the software if not built and tested correctly can utilized against its intended uses potentially leading to harm for others.  If the software uses data but does not work to protect it this can lead to issues when the data wrongfully exposed.  AI is also just prone to this, leading to regulations on the management of AI data. Data collections can only sotre the necessary data to complete the training and stored in manners preventing external wrongful access.  It is the responsibility as a computer scientist to udnerstand the impact of this data and how to properly handle it.  
