@@ -1,4 +1,4 @@
-# CPlUSPLUS-PROGRAM
+# SNHU Journey
 
 Journal submissions for CS degree at SNHU
 
